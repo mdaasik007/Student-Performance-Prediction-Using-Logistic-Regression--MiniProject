@@ -46,7 +46,7 @@ https://github.com/mdaasik007
 1. Clone the repository:
 
    ```
-   git clone https://github.com/mdaasik007/<repository-name>.git
+   git clone https://github.com/mdaasik007/Student-Performance-Prediction-Using-Logistic-Regression--MiniProject.git
    ```
 
 2. Navigate to the project directory:
